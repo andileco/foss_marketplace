@@ -1,0 +1,4 @@
+name: foss
+recipe: drupal8
+config:
+  webroot: web
